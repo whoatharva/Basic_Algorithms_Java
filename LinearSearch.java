@@ -1,10 +1,7 @@
 import java.util.Scanner;
 
-
 public class LinearSearch{
-public static void main(String[] args) {
-    
-    
+public static void main(String[] args) {    
   
     try (Scanner input = new Scanner(System.in)) {
         System.out.println("Enter the size of the array: ");
